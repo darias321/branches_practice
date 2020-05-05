@@ -1,12 +1,14 @@
-git branch -l 
-* master 
-
-git chefckout -b "dev" 
-Switched to a new branch 'dev' 
-
-
-
 
 yellow 
 green 
-blue 
+
+git branch -l 
+* master 
+
+git checkout -b "dev" --> this is to create a branch 
+Switched to a new branch 'dev' 
+
+git checkout master --> goes back to master 
+git checkout dev --> switches to dev branch (branch that you made)
+git merge dev --> merge changes on dev to master 
+git branch -d dev --> to delete branch 
