@@ -1,0 +1,12 @@
+git branch -l 
+* master 
+
+git chefckout -b "dev" 
+Switched to a new branch 'dev' 
+
+
+
+
+yellow 
+green 
+blue 
